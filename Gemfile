@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gemspec
+#gemspec
 
 gem 'paypal-sdk-core', :git => "https://github.com/sebglazebrook/sdk-core-ruby.git"
 
