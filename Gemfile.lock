@@ -1,6 +1,8 @@
 GIT
   remote: https://github.com/sebglazebrook/sdk-core-ruby.git
   revision: 8ef558050a6506a783615a07c93f7ee57eba6927
+  branch: master
+  tag: 0.2.6
   specs:
     paypal-sdk-core (0.2.5)
       multi_json (~> 1.0)
